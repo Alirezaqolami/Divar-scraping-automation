@@ -1,0 +1,2194 @@
+[
+  {
+    "url": "https://divar.ir/s/shiraz/buy-residential",
+    "strategy": {
+      "type": "standard_scroll",
+      "scroll_increment": 600,
+      "scroll_delay": [
+        1.0,
+        1.5
+      ]
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759222902.6153133,
+    "data_quality": 0.0
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B2%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1-%DB%B4-%D8%AE%D9%88%D8%A7%D8%A8-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D9%85%D9%87%D8%B1-%D9%82%D8%B5%D8%B1%D8%AF%D8%B4%D8%AA-%DB%B3%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF/Aa5eWurB",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759222921.3055289,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/AaUHVqVA",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759222930.4452078,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B1%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1-%D9%86%DB%8C%D8%A7%DB%8C%D8%B4-%D9%88%DB%8C%D9%88-%D8%A7%D8%A8%D8%AF%DB%8C-%D8%A8%D8%A7%D8%BA-%D8%B5%D9%81%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C/Aabz5DLA",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759222939.3702955,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%AA/AabvZ9rY",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759222954.338054,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%BE%D9%80-%DB%8C%D9%80-%D8%B4-%D9%81%D8%B1%D9%88%D8%B4-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D8%B4%D9%87%D9%80-%D8%B1%DA%A9-%DA%A9%D9%88%D8%AB%D8%B1/AaXbnnNY",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759222964.807132,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-140-%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%DA%A9%D9%84%D8%A7%D9%87%D8%AF%D9%88%D8%B2/AaIjCO0j",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759222973.8917458,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B4%DB%8C%D9%85%DB%8C-%DA%AF%DB%8C%D8%A7%D9%87-%D9%88%DB%8C%D9%88-%D8%A8%D8%A7%D8%BA/AabvJrEk",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759222983.76369,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DB%B1%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B4%D9%87%D8%B1%DA%A9-%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3/AabvptOA",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759222993.0630498,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B2%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%85%D9%84%DA%A9%DB%8C-%DB%B1%DB%B1%DB%B2-%D9%85%D8%AA%D8%B1%DB%8C/AaSD1-p6",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223001.7449293,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%88%DB%8C%D9%88-%D8%A7%D8%A8%D8%AF%DB%8C-%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-3-%D8%AE-170-%D9%85%D8%AA%D8%B1%DB%8C-%DA%86%D9%88%DA%AF%DB%8C%D8%A7/AauWqb7_",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223011.3139217,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/114%D9%85%D8%AA%D8%B1%DB%8C-2%D8%AE%D9%88%D8%A7%D8%A8-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D8%AC%D9%86%D9%88%D8%A8%DB%8C/AabvZrFE",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223020.8633556,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2%D8%B4%D9%87%D8%B1-%D9%88%D8%B5%D8%A7%D9%84-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/Aabv5ssS",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223029.611594,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A8%D8%A7%D8%BA-2400%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%87-%D8%B4%D8%A8%DA%A9-%D9%88-%D9%84%D8%A7%DA%A9%DA%86%D8%B1%DB%8C-%D9%82%D9%84%D8%A7%D8%AA/Aabv5M-q",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223040.1047478,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AA%D9%87%D8%A7%D8%AA%D8%B1-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%D9%88%D8%A7%D8%AD%D8%AF-%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86/Aabv5dwC",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223049.0923228,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B7%D8%A8%D9%82%D9%87-%D9%87%D9%85%DA%A9%D9%81-%D8%A7%D8%B2-%DB%B2-%D8%B7%D8%A8%D9%82-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1/AabjYZ7Y",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223058.8436506,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%88%DB%8C%DA%98%D9%87-%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1-%D8%AA%D9%88%D8%AD%DB%8C%D8%AF%DB%8C-%D8%B1%D8%A7%D8%AF-%D9%88%D8%A7%D9%85-%D8%AF%D8%A7%D8%B1/Aa0CmZf5",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223067.4191656,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%BE%D8%A7%DB%8C%DB%8C%D8%B2/Aabv5A5B",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223075.6931505,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%DB%8C%DA%A9-%D8%B7%D8%A8%D9%82%D9%87-%D8%AF%D8%B1%D8%A8%D8%B3%D8%AA-%DA%A9%D9%88%DA%86%D9%87-%DB%B1%DB%B9-%D8%B3%DB%8C%D8%AF%D8%A7%D9%84%D8%B4%D9%87%D8%AF%D8%A7-%DA%A9%D8%B1%D9%88%D9%86%DB%8C/AaPSwrBJ",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223084.5166013,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%86%DB%8C%D8%A7%DB%8C%D8%B4-%DA%A9%D8%A7%D8%B1-%D9%81%D9%88%D9%82-%D9%84%D9%88%DA%A9%D8%B3%DB%B2%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/AaM6Xb0e",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223094.1026206,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B5%D9%81%D8%B1-%D8%AE%D8%A7%DA%A9%D8%B4%D9%86%D8%A7%D8%B3%DB%8C/AabvpH1N",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223103.5381691,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B2%D9%85%DB%8C%D9%86-%DB%B2%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1%D8%A8-%D8%AD%DB%8C%D8%A7%D8%B7-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%B3%D8%A7%D8%AE%D8%AA-%D8%B7%D9%84%D8%A7%D8%A6%DB%8C%D9%87/Aabr5dpk",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223110.9533052,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D8%B5%D8%AA-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C-%D9%81%D8%B1%D9%88%D8%B4-%D8%A8%D8%A7%D8%BA-%DB%B4%DB%B0%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/Aa52h6DD",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223121.6180928,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D8%B9%D9%85%D8%B1%D8%A7%D9%86/AabrpYL9",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223130.9653738,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AE%D8%A7%D9%86%D9%87-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%DB%B9%DB%B0%D9%85%D8%AA%D8%B1%DB%8C/Aabn5uFg",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223139.8016481,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AE%D9%88%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%D8%B1%D8%AD%D9%85%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF-%D9%82%D8%B5%D8%B1%D8%AF%D8%B4%D8%AA/AaP7azFY",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223149.663345,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D9%84%D9%86-%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87/Aaa_6Rhl",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223160.2007186,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%81%D9%88%D8%B1%DB%8C-107%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%D9%88%D8%AD%DB%8C%D8%AF%DB%8C-%D8%B1%D8%A7%D8%AF/AaHP8xph",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223171.042233,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B1%DB%B6%DB%B1%D9%85%D8%AA%D8%B1-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D8%B3%D8%A7%D9%84%D9%86-%D8%A8%D8%B2%D8%B1%DA%AF/AaajqP03",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223179.2408943,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DB%B1%DB%B2%DB%B5-%D9%85%D8%AA%D8%B1-%D9%84%D9%88%DA%A9%D8%B3-%D9%BE%D8%A7%D8%B3%D8%A7%D8%B1%DA%AF%D8%A7%D8%AF/Aabn57zc",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223190.078141,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D9%86%D8%B2%D9%84-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B4%DB%8C%D8%B4%D9%87-%DA%AF%D8%B1%DB%8C/AaAHBsCF",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223199.679854,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%85%D8%B9%D8%A7%D9%88%D8%B6%D9%87-%D9%85%D8%BA%D8%A7%D8%B2%D9%87-%D8%A8%D8%A7-%D8%B2%D9%85%DB%8C%D9%86-%D8%A8%D8%A7%D8%BA-%D8%B4%D9%87%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B5%D8%AF%D8%B1%D8%A7-%D8%A7%D9%87%D9%84-%D8%A8%DB%8C%D8%AA/AabjZ0JS",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223206.091648,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AA%D9%85%DB%8C%D8%B2-%D9%88-%D9%85%D8%B1%D8%AA%D8%A8-%D8%B3%D9%86%D8%AF-%D8%AA%DA%A9-%D8%A8%D8%B1%DA%AF-%D9%85%D9%84%DA%A9%DB%8C/Aabr5FtL",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223215.0889149,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DB%B4-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C/Aabn54Xs",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223224.900985,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A8%D8%A7%D8%BA-%DB%B2%DB%B4%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B4%D8%B4%D8%AF%D8%A7%D9%86%DA%AF-%D9%85%D9%84%DA%A9%DB%8C-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D8%B4%D9%87%D8%B1/AabnZz7V",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223232.732769,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D9%85%D8%B3%DA%A9%D9%86-%D9%85%D9%87%D8%B1-%D9%84%D9%BE%D9%88%DB%8C%DB%8C-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D9%86%D9%88%D8%B1%D9%88%D8%B2%DB%8C/AaPfoPnE",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223243.0769608,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B2%D9%85%DB%8C%D9%86-%D8%AF%D8%B1%D8%A8-%D8%AD%DB%8C%D8%A7%D8%B7-%DB%B2%DB%B5%DB%B0%D9%85%D8%AA%D8%B1-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86/AaTjpdr-",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223250.2374134,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B4%D9%87%D8%B1%DA%A9-%D8%B3%D8%A7%D9%85%D8%A7%D9%86/AabnJkov",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223259.6167426,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%DB%8C-%D8%B3%D8%A7%D8%B2-%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D9%BE%D8%AA%D8%B1%D9%88%D8%B4%DB%8C%D9%85%DB%8C/AabnJe2v",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223268.3797007,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%85%D8%B3%DA%A9%D9%86-%D9%85%D9%87%D8%B1-%D9%84%D9%BE%D9%88%DB%8C%DB%8C-%DB%8C%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D8%A7%D9%85%D9%84%D8%A7%DA%A9-%D9%86%D9%88%D8%B1%D9%88%D8%B2%DB%8C/AasCnWRs",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223277.9006772,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-110%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%DA%A9%D9%88%DB%8C-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D9%86-%D9%88%DB%8C%D9%88%D8%A7%D8%A8%D8%AF%DB%8C/AaQHPSQ9",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223288.1531749,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A8%D8%A7%D8%BA-%D8%B4%D9%87%D8%B1%DB%8C-%DB%B1%DB%B0%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/Aa5iCLfL",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223296.6310909,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8/AabnZY1I",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223306.08955,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%D8%A7%DA%86%D8%A7%D8%B1%D8%A7-%D8%B5%D8%AF%D9%85%D8%A7%D8%B1-%D8%AD%DB%8C%D8%A7%D8%B7-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D8%B5%D9%81%D8%B1/AabnpjCB",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223315.78297,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B3%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1-%D9%85%D9%86%D8%B2%D9%84-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%A8%DB%8C%D8%A7%D8%B1%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%B3%D8%A7%D8%AE%D8%AA-%D9%88-%D8%B3%D8%A7%D8%B2/Aabn5Qfo",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223322.4914093,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B2%D9%85%DB%8C%D9%86-%D8%AC%D8%B1%D8%B3%D9%82%D8%A7%D9%86-%D8%B3%D9%84%D8%B7%D8%A7%D9%86-%D8%A7%D8%A8%D8%A7%D8%AF/Aab-gsh_",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223328.478387,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B2%DB%B2%DB%B5%D9%85%D8%AA%D8%B1%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/AaUCMEk5",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223338.330976,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B4%DB%B8%D9%85%D8%AA%D8%B1-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/wZ0lQExs",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223347.1867046,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B4%DB%B0%D9%85%D8%AA%D8%B1-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/Aa6Et__W",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223355.886655,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%B3%D8%A7%D8%B2-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86/AaWe_fs4",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223364.1408813,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AA%D9%87%D8%A7%D8%AA%D8%B1-%D8%B2%D9%85%DB%8C%D9%86-%D8%A8%D9%87%D8%B4%D8%AA%DB%8C-%D8%A7%D9%81%D8%B1%DB%8C%D9%86%D8%B4/AabjJ5cI",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223371.56422,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B2%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1-%DB%B3-%D8%AE-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%AD%DB%8C%D8%A7%D8%B7-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C-%D9%88-%D8%B3%D9%88%DB%8C%DB%8C%D8%AA/AaZSJCnU",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223380.5278099,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AE%D8%A7%D9%86%D9%87-%D8%A8%D8%A7%D8%B2-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87/AaZPzgZt",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223387.7792892,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B3%D8%AE%D9%88%D8%A7%D8%A8-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%DB%B2%D8%AA%D8%B1%D8%A7%D8%B3-%D8%B5%D9%81%D8%B1/Aabjp1x7",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223396.3097882,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B5%D9%81%D8%B1-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D8%B4%D8%AF%D9%87-114-%D9%85%D8%AA%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/AaOCDee9",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223404.7908068,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D8%AE%D9%88%D8%B4-%D9%82%DB%8C%D9%85%D8%AA/Aabj5aiu",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223415.759711,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D9%88%D9%82-%D9%84%D9%88%DA%A9%D8%B3-%D9%BE%D8%A7%D8%B3%D8%A7%D8%B1%DA%AF%D8%A7%D8%AF/Aa5aFQ8D",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223424.8037772,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AC%D9%86%D9%88%D8%A8%DB%8C/AaBj6a2m",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223434.48398,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2%D8%B4%D9%87%D8%B1-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D9%86%D9%85%D8%A7%D8%B2%DB%8C/AabjJauL",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223444.1954594,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%B2%D9%85%DB%8C%D9%86-%DB%B1%DB%B0%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B4%D8%A7%D9%BE%D9%88%D8%B1%D8%AC%D8%A7%D9%86/AaOvLexg",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223451.6477695,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D9%82%D8%B5%D8%B1%D8%A7%D9%84%D8%AF%D8%B4%D8%AA/AabjJH2g",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223461.3661284,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%DB%B1%DB%B0%DB%B0%DB%B0%D9%85%D8%AA%D8%B1-%D9%85%D8%B1%D8%A8%D8%B9-%D8%B2%D9%85%DB%8C%D9%86-%D8%A8%D8%A7%D8%BA%D8%B4%D9%87%D8%B1%DB%8C-%DA%A9%D9%88%D8%AF%DB%8C%D8%A7%D9%86-%D9%82%D9%84%D8%A7%D8%AA/AaOTlgZL",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223468.1449692,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%BE%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D9%81%D8%AF%DA%A9/AaZbTpEq",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223477.2835171,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B5%D9%81%D8%B1-%D8%AE%D9%84%D8%AF%D8%A8%D8%B1%DB%8C%D9%86/Aabfp9bo",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223486.0882707,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A8%D8%A7%D8%BA-%D8%B4%D9%87%D8%B1%DB%8C%DB%B1%DB%B0%DB%B0%DB%B0%D9%85%D8%AA%D8%B1%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%B2%D9%85%D8%B2%D9%85-%D8%AC%D8%A7%D8%AF%D9%87-%D8%AE%D8%B1%D8%A7%D9%85%D9%87-%D9%82%D8%A8%D9%84-%D8%A7%D8%B2%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D9%86/AaZfWiw-",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223493.7548182,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%DB%B2%DB%B0%DB%B0%DB%B0%D9%87%D8%B2%D8%A7%D8%B1-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D8%AF%DA%A9-%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7-%D8%B3/Aa5OT1jc",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223501.0513675,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AE%D9%88%D8%B4-%D9%82%DB%8C%D9%85%D8%AA-%DB%B1%DB%B1%DB%B0%D9%85%D8%AA%D8%B1-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%DA%AF%D9%84%DA%86%DB%8C%D9%86-%D8%BA%D8%B1%D8%A8%DB%8C/AaZH2szz",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223510.2529583,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%DB%B2%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%B7%D8%A8%D9%82%D9%87-%D8%B4%D9%87%D8%B1%DA%A9-%D9%85%D9%87%D8%AF%DB%8C%D9%87/AaaXDUHG",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223520.683307,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A8%D8%A7%D8%BA%DA%86%D9%87-%D8%A8%D8%A7%D8%BA-%DB%B1%DB%B2%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DA%86%D9%85%D8%B1%D8%A7%D9%86/AabfJplp",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223529.6508799,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B4%DB%8C%DA%A9-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D9%88%D8%A7%D9%84%D9%81%D8%AC%D8%B1/AabT5v5X",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223540.110758,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%DB%8C%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D9%81%D8%AC%D8%B1/AabTZSMV",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223549.2515316,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B5%D9%81%D8%B1-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%DA%A9%D8%B3%D8%A7%D8%A6%DB%8C/Aa3aAuLA",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223557.1021278,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-53%D9%85%D8%AA%D8%B1-1%D8%AE%D9%88%D8%A7%D8%A8-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%DA%A9%D9%85%DB%8C%D9%84/Aaar3h67",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223565.6610126,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D9%84%D9%88%DA%A9%D8%B3/Aabf4EJ3",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223575.7888148,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2%D8%B4%D9%87%D8%B1-%D8%B1%D9%88%D8%AF%DA%A9%DB%8C/AabfpdCj",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223585.7705624,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87/AabfJakT",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223596.280449,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C220%D9%85%D8%AA%D8%B1-%DA%AF%D9%84%D8%B4%D9%86-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%B3%D8%A7%D8%AE%D8%AA-%D9%88-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C/AaarnuyT",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223607.024367,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/2-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B4%D9%87%D8%B1%DA%A9-%D8%A8%D9%87%D8%B4%D8%AA%DB%8C-%D8%AE%D9%88%D8%B4%D9%86%D9%82%D8%B4%D9%87/AabfJj3r",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223616.877354,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B4%DB%B5-%D9%85%D8%AA%D8%B1-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B5%D9%81%D8%B1-%D9%86%D8%A8%DB%8C-%D8%A7%DA%A9%D8%B1%D9%85/Aab3Gk75",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223627.8849268,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B2%D9%85%DB%8C%D9%86%DB%B3%DB%B0%DB%B0%D9%85%D8%AA%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D8%AA%D8%A7%D8%B2%D9%87-%D8%AA%D9%81%DA%A9%DB%8C%DA%A9-%D8%A7%D8%AD%D9%85%D8%AF-%D8%A7%D8%A8%D9%86-%D9%85%D9%88%D8%B3%DB%8C-%D9%86%D9%88%D8%A7%D8%A8-%D8%B5%D9%81%D9%88%DB%8C/wZwPNXSm",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223636.0622034,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-95%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%DB%8C%D8%B2/AajmzUPi",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223646.6269727,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%AE%D8%A7%D9%86%D9%87/AaJH7eVg",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223657.1617684,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%8C%DA%A9%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%84%D9%88%DA%A9%D8%B3-%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D8%AD%D8%AF%D9%88%D8%AF%D9%87-%D8%B3%D8%B1%D8%A7%D8%AC/Aabf5Ph3",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223667.6783912,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B2%D9%85%DB%8C%D9%86-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%D9%85%D9%84%DA%A9%DB%8C-%D8%AC%D8%B1%D8%B3%D9%82%D8%A7%D9%86/AaOvpXdw",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223675.2046452,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B6%DB%B1-%D9%85%D8%AA%D8%B1-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AaG_ZAET",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223685.4785323,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B1%DB%B0%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D9%84%DB%8C%D8%AF%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D8%AA%D8%AD%D9%88%DB%8C%D9%84%DB%8C/Aabf5ENt",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223694.7537718,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%B2%D9%85%DB%8C%D9%86-%D8%AF%D9%88%DA%A9%D9%88%D9%87%DA%A9/Aabbp3Ze",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223701.532862,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A8%D8%A7%D8%BA-%D8%A8%DB%8C%D8%B6%D8%A7-%D8%B3%D9%86%D8%AF%D8%AF%D8%A7%D8%B1-%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C-%D8%A7%D8%A8-%D8%A8%D8%B1%D9%82-%DA%AF%D8%A7%D8%B2/AabbJqU7",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223710.5472965,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%B2%D9%85%DB%8C%D9%86-200%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D8%B4%D9%87%D8%B1%DA%A9-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87-%DA%AF%D9%88%DB%8C%D9%85/AabbZxdk",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223717.3216436,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DB%B1%DB%B6%DB%B0-%D9%85%D8%AA%D8%B1/Aabb58SE",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223727.319493,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B9%DB%B7%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/AaRKc9ju",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223736.4664814,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B9%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/wZ-zHDBg",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223745.4162893,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B3%DB%B0%D9%85%D8%AA%D8%B1-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/AahI6CTL",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223753.9597373,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D9%88%D8%A7%D9%85-%D8%AF%D8%A7%D8%B1/AaHPMb1E",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223762.9298246,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B2%DB%B7%D9%85%D8%AA%D8%B1%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/AaXS1aLG",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223772.6552012,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%AE%D8%A7%D9%86%D9%87-%D9%82%D8%AF%DB%8C%D9%85%DB%8C-%D9%88-%DA%A9%D9%84%D9%86%DA%AF%DB%8C/AabXZvvW",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223779.220746,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B6%DB%B0%D9%85%D8%AA%D8%B1-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/wZIv1n_2",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223788.203158,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B3%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D8%B4%D8%A7%D9%87-%D9%86%D8%B4%DB%8C%D9%86-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1-%D9%82%D8%B5%D8%B1%D8%AF%D8%B4%D8%AA-%DA%A9%D9%84%DB%8C%D8%AF-%D8%A7%D9%88%D9%84-%D8%B2%DB%8C%D8%B1%D9%81%DB%8C/AabbpuCL",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223797.03911,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-3%D8%AE%D9%88%D8%A7%D8%A8-%D9%85%D8%B3%D8%AA%D8%B1-%D9%84%D9%88%DA%A9%D8%B3-%D8%B3%D8%A7%D8%B2/AabbZlqM",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223806.9015417,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B7%DB%B5%D9%85%D8%AA%D8%B1%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/AaaofbL7",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223816.8784328,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%D9%85%D8%B9%D8%A7%D9%84%DB%8C-%D8%A7%D8%A8%D8%A7%D8%AF/AaF_CRVd",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223825.0798743,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D8%B4%D9%87%D8%B1-%DB%B4-%D8%AE%D9%88%D8%A7%D8%A8-%D9%88%DB%8C%D9%88-%D8%A8%D8%A7%D8%BA/AaTGxM2r",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223833.5656867,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%DB%B1%DB%B0%DB%B7-%D9%85%D8%AA%D8%B1-%D9%81%D8%AF%DA%A9-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/Aaa3DbO1",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223842.3300202,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%A7%D9%85%D8%A7%D9%85-%D9%85%D9%87%D8%AF%DB%8C-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/AabbpVAF",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223850.891725,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-%D8%B5%D9%84%D8%AD/AabbZQ8R",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223859.19586,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B2%D9%85%DB%8C%D9%86-200%D9%85%D8%AA%D8%B1%DB%8C/AaF_I_Lf",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223866.034945,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B2%D9%85%DB%8C%D9%86-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D9%86%D8%B5%D8%B1%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%DB%8C%D8%B2%D8%A7%D9%86-%DB%B4%DB%B0%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88%DA%A9%D9%84%D9%87/AaXGyael",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223872.3480725,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4%DB%B3%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%DA%A9%D9%84%D8%A7%D9%87%D8%AF%D9%88%D8%B2/AabXJv8t",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223882.2272289,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87/AabTpYND",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223891.1529791,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B2%D9%85%DB%8C%D9%86-%DB%B1%DB%B2%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1-%D9%85%D9%87%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF/AabXJ6pv",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223898.0777855,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%D8%AF%D9%88-%D8%B7%D8%A8%D9%82%D9%87-%D9%82%D8%AF%D9%88%D8%B3%DB%8C-%D8%BA%D8%B1%D8%A8%DB%8C/AaNatIzk",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223907.6089897,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%88%D8%A7%D8%AD%D8%AF-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B5%D9%81%D8%B1-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87/Aa-uHl3z",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223916.764092,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%81%D9%88%D8%B1%DB%8C-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87/AaVPih0O",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223926.730586,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D9%82%D8%B7-%D8%A8%D8%A71-850%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D9%84%D9%88%DA%A9%D8%B3-%D9%88-%D8%B4%DB%8C%DA%A9-%D8%AF%D8%B1-%D9%BE%D8%A7%DB%8C%DB%8C%D8%B2-%D8%AE%D8%B1%DB%8C%D8%AF-%DA%A9%D9%86%DB%8C%D8%AF/AaOf8fni",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223936.5811403,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B1%DB%B3%DB%B1%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8/AabXpup-",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223947.09809,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%85%D9%86%D8%B2%D9%84-%D8%AF%D9%88%D8%B7%D8%A8%D9%82%D9%87-125%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%B1-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%A7%D8%B5%D9%84%DB%8C-%DA%A9%D8%B1%D9%88%D9%86%DB%8C/AaKXl2eR",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223956.9937792,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D8%B1%D9%87%D9%86%DA%AF%D8%B4%D9%87%D8%B1-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%DB%B1%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1/AaP_KCrA",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223966.6598656,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-200%D9%85%D8%AA%D8%B1%DB%8C/AabXpjtj",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223977.0405326,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%AA%D9%87%D8%A7%D8%AA%D8%B1%DB%B1%DB%B8%DB%B4%D9%85%D8%AA%D8%B1-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D9%88%DB%8C%D9%88-%D8%A7%D8%A8%D8%AF%DB%8C-%D8%B2%D9%86%D8%A8%D9%82/AaZAtIHJ",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223985.1927125,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/2-%D9%88%D8%A7%D8%AD%D8%AF-120-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B5%D9%81%D8%B1-%D8%AA%D9%87%D8%A7%D8%AA%D8%B1-%D8%A8%D8%A7-%DA%A9%D9%84%D9%86%DA%AF%DB%8C/Aa9KESRJ",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759223995.356222,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A8%D8%B1%D8%AC-%D8%B3%D8%A7%D8%B2%D8%A7%D9%86-%D9%81%D8%B1%D9%88%D8%B4-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%DB%B2%D8%B7%D8%A8%D9%82%D9%87-%DB%B2%D8%A8%D8%B1-%DA%A9%D9%88%DA%86%D9%87-%DB%B2%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/AaFbh5mc",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224005.602702,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C%D9%87/AabXJpvg",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224014.3825686,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%DB%B2%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/Aat2t7PH",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224023.808579,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AB%D8%A8%D8%AA-%DB%8C%DA%A9-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8-%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C%D9%87/AabX5fev",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224033.2690444,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%8C%DA%A9%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D8%A8%D8%AF%D9%88%D9%86-%D9%BE%D8%B1%D8%AA%DB%8C/AabXJd_x",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224041.3302855,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%AE%D8%A7%D9%86%D9%87-%D8%A7%D8%AD%D9%85%D8%AF-%D8%A2%D8%A8%D8%A7%D8%AF/AabXpLkX",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224051.1682043,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B1%DB%B1%DB%B2-%D9%85%D8%AA%D8%B1-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%85%D9%84%DA%A9%DB%8C-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/AabTJHD0",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224061.4071007,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%BA%D8%B1%D9%82-%D9%86%D9%88%D8%B1-%D8%A8%D8%A7-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D9%88%DB%8C%DA%98%D9%87/AabT55vN",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224069.339644,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D9%82%D8%A7%D8%A6%D9%85/AabT58jz",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224079.2087345,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-2-%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%DB%8C-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AA%D8%AE%D9%84%DB%8C%D9%87/AabTp4j8",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224089.7597399,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D9%86%D8%B2%D9%84-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%DB%B1%DB%B1%DB%B2-%D9%85%D8%AA%D8%B1/AaMeYG5A",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224100.2019038,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B1%DB%B3%DB%B7%D9%85%D8%AA%D8%B1-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8/AabTJ0gg",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224109.2328522,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DB%B1%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C/AaY_sxaL",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224117.631275,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A8%D8%A7%D8%BA-%D8%AD%D9%88%D8%B6-115m-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D8%AA%DA%A9%D9%85%DB%8C%D9%84/AaXjqkoE",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224127.8889594,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/240%D9%85%D8%AA%D8%B1%DB%8C-%D8%A8%D8%A7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-%D8%A8%D8%B1%DB%B4%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%D8%B4%D9%87%D8%B1%DA%A9-%D8%B3%D8%A7%D9%85%D8%A7%D9%86/AabT5iIV",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224137.6607304,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%B2%D9%85%DB%8C%D9%86200%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D8%A2%DB%8C%D9%86%D8%AF%D9%87/AaaPdokz",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224143.9602914,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D8%AC%D9%86%D9%88%D8%A8%DB%8C/AabX5AnS",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224152.9482856,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D8%AF%DA%A9-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D9%85%D9%84%DA%A9%DB%8C/AaP_q4Pp",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224162.4080837,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DB%B8%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-%D8%B4%D8%AE%D8%B5%DB%8C-%D8%B3%D8%A7%D8%B2-%D8%B3%D9%81%DB%8C%D8%B1-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/AaRn1gMh",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224171.6732438,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%DB%B6-%D9%88%D8%A7%D8%AD%D8%AF%D9%87-%D8%B1%D8%B4%D8%AF-%D8%AC%D9%86%D9%88%D8%A8%DB%8C/AabTJOzp",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224180.6974423,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%B2%D9%85%DB%8C%D9%86-%DB%B3%DB%B3%DB%B6-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B9%D8%B1%D8%B6-%DB%B1%DB%B2/AaTKDqZK",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224188.2290745,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B2%D9%85%DB%8C%D9%86-%DB%B3%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1-%D8%B3%D8%B1-%D8%B3%D9%87-%D9%86%D8%A8%D8%B4-%D8%B4%D9%87%D8%B1%DA%A9-%D9%81%D8%B1%D9%87%DB%8C%D8%AE%D8%AA%DA%AF%D8%A7%D9%86/AabPHjmd",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224194.9645934,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8-%D9%BE%D8%A7%D8%A8%D8%A8%D8%B2/AaSLdOSJ",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224204.6513011,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AaXnKMf1",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224214.1749394,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AE%D8%A7%D9%86%D9%87-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%DA%A9%D8%B1%D9%88%D9%86%DB%8C-%D9%84%D9%88%DA%A9%D8%B3-%D9%88-%D9%84%D8%A7%DA%A9%DA%86%D8%B1%DB%8C/AaV3W_NC",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224223.916773,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%B2%D9%85%DB%8C%D9%86-%D8%A8%D8%A7%D8%BA%D8%B4%D9%87%D8%B1%DB%8C-%D8%B8%D9%81%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF/Aam6M19z",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224230.287477,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D9%88%D9%82-%D9%84%D9%88%DA%A9%D8%B3-%D8%AF%DA%A9%D8%AA%D8%B1%D8%AD%D8%B3%D8%A7%D8%A8%DB%8C-%D9%82%D8%A7%D8%A8%D9%84-%D9%85%D8%B9%D8%A7%D9%88%D8%B6%D9%87/AabPJjzN",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224239.9855318,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%82%D8%B5%D8%B1%D8%A7%D9%84%D8%AF%D8%B4%D8%AA-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%D9%85%D8%AF%D8%B1%D9%86-%D9%88-%DA%A9%D9%84%DB%8C%D8%AF-%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87/Aaan0wx4",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224249.576203,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8-%D8%A8%D8%AF%D9%88%D9%86-%D9%85%D8%B4%D8%A7%D8%A8%D9%87-%D9%82%DB%8C%D9%85%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%85%D9%86%D8%B7%D9%82%D9%87/AabPYAc_",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224260.0097015,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B2%D9%85%DB%8C%D9%86-%DB%B2%DB%B7%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A7%D9%85-%DB%B4/AaTX_2iE",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224268.4485931,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B2%D9%85%DB%8C%D9%86-%D8%A8%D8%A7%D8%BA-%D9%82%D9%84%D8%A7%D8%AA-%DA%A9%D9%88%D8%AF%DB%8C%D8%A7%D9%86-%D8%A7%D8%A8%D9%BE%D8%B1%D8%AF%D9%87/Aa2GLoyU",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224274.9868736,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B4-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B1-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%B5%D9%84%D8%AD/Aay5h8lo",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224285.6424558,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/250-%D9%85%D8%AA%D8%B1-%D8%A8%D8%A7-%D9%BE%D8%B1%D9%88%D8%A7%D9%86%D9%87-%D8%B3%D8%A7%D8%AE%D8%AA-%D9%85%D8%B9%D8%A7%D9%84%DB%8C-%D8%A2%D8%A8%D8%A7%D8%AF/AaPrreTg",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224292.5726955,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4%DB%B1%DB%B1%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DB%B9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C/AaazWY4_",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224302.0248325,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B1%DB%B7%DB%B0%D9%85%D8%AA%D8%B1-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%AF%D9%86%D8%AC-%D9%88-%D9%85%D8%AF%D8%B1%D9%86-%D9%81%D9%88%D9%84-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D8%A7%D8%B9%DB%8C%D8%A7%D9%86%DB%8C/AabPJ76F",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224313.0398993,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B2-%D9%85%D8%AA%D8%B1%DB%8C-%DB%8C%DA%A9-%D8%AE%D8%A7%D8%A8-%D8%AF%D8%B1-%D8%B3%D8%B1%D8%A7%D8%AC/Aa7qgK8P",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224322.2931905,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D9%85%D8%AD%D9%85%D8%AF%DB%8C%D8%A7%D9%86/Aab7owuU",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224331.332645,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%DB%B1%DB%B0%DB%B2%D9%85%D8%AA%D8%B1%DB%8C-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D8%A8%D8%A7%D8%BA-%D8%AD%D9%88%D8%B6/AaY39EzY",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224341.3326075,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2%D8%B4%D9%87%D8%B1-%D9%88%D8%B5%D8%A7%D9%84-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/AabP5s4l",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224351.2018995,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B4%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%DB%B2%DA%A9%D9%84%D9%87-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%DA%A9%D8%B3%D8%A7%DB%8C%DB%8C/AaazrOZa",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224357.544705,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%81%D9%88%D8%B1%DB%8C-%D9%85%D9%86%D8%B2%D9%84-%D8%AF%D9%88-%D8%B7%D8%A8%D9%82%D9%87-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%D9%88%D8%A7%D9%82%D8%B9-%D8%AF%D8%B1-%D9%85%D8%AF%D8%B1%D8%B3/AaBz5vGm",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224367.5794997,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B3%DB%B4%D9%85%D8%AA%D8%B1%DB%8C-%D8%B4%DB%8C%D9%85%DB%8C-%DA%AF%DB%8C%D8%A7%D9%87/AaF_g0f4",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224376.3043153,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B9%DB%B0%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-%D9%BE%D9%86%D8%AC-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B4%D9%87%D8%B1%DA%A9-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84/AaQ3Liqf",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224385.4639099,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%88%D8%A7%D8%AD%D8%AF-140%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%84%D9%88%DA%A9%D8%B3-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D9%81%D8%B1%D8%A7%D8%B2/AaFrES9H",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224394.8783035,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B1%DB%B3%DB%B8%D9%85%D8%AA%D8%B1-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/AaRIN-1V",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224405.7424169,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B2%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87-%D8%A8%D8%A7%D8%BA-%D8%AD%D9%88%D8%B6/AaXjulH0",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224414.8445165,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B3%D9%81%DB%8C%D8%B1-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D9%BE%D9%88%D8%B1%D8%A8%DB%8C%D8%B1%DA%AF/AabLpwU7",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224424.1246135,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%AE%D8%A7%D9%86%D9%87-%D8%B3%D8%B9%D8%AF%DB%8C/AabPZh0G",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224431.1678097,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B3%DB%B8%D9%85%D8%AA%D8%B1-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/Aa3p9tE1",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224441.260588,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DB%B1%DB%B2%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84-%D9%81%D8%B1%D9%86%DB%8C%D8%B4-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D8%B4%D9%87%D8%B1/AabPJvk_",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224451.8289778,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/171%D9%85%D8%AA%D8%B1-%D9%85%DB%8C%D9%86%DB%8C%D9%85%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%86-%D8%AF%D9%88%D8%A8%D8%B1%D9%86%D9%88%D8%B1-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%A7%D8%B9%DB%8C%D8%A7%D9%86-%D9%86%D8%B4%DB%8C%D9%86/AabLZ5Eg",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224461.4438272,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B2%DB%B5%D9%85%D8%AA%D8%B1%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/AaFrCcDs",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224472.0015898,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B9%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B9%D9%81%DB%8C%D9%81-%D8%A2%D8%A8%D8%A7%D8%AF/AaTXrbjS",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224482.2414587,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B1%DB%B7%DB%B8%D9%85%D8%AA%D8%B1-%D9%88%DB%8C%D9%88%D8%A8%D8%A7%D8%BA-%DA%A9%D9%85-%D9%88%D8%A7%D8%AD%D8%AF%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%85%D8%A7%D9%84-%DB%B2%D8%AA%D8%B1%D8%A7%D8%B3-%D8%B2%D9%88%D8%AC-%D9%81%D8%B1%D9%87%D9%86%DA%AF%D8%B4%D9%87%D8%B1/AabPpdWx",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224492.9433105,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-90-%D9%85%D8%AA%D8%B1%DB%8C/AabLZp39",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224503.0451233,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AF%D9%88%D8%B7%D8%A8%D9%82%D9%87-%DB%B3-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D9%87%D9%85%D8%AA-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AF%D8%B1%D8%A8-%D8%AD%DB%8C%D8%A7%D8%B7/Aaa3rp9Y",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224512.655242,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%AA%DA%A9-%D8%A8%D9%84%D9%88%DA%A9-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B4%D8%AF%D9%87/AabPZEbS",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224522.6711917,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%DB%8C%DA%A9%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D9%88-%D9%85%D8%B1%D8%AA%D8%A8/Aa0m1GV3",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224532.0751276,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%DB%B1%DB%8C%D8%A7%DB%B2-%D8%B7%D8%A8%D9%82%D9%87-%D8%A8%D8%A7-%D9%82%DB%8C%D9%85%D8%AA-%D8%AA%D9%88%D8%A7%D9%81%D9%82%DB%8C-%D8%AF%D8%B1-%D9%82%D8%B5%D8%B1%D9%82%D9%85%D8%B4%D9%87/AaFRI7lT",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224542.741726,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B1%DB%B3%DB%B0%D9%85%D8%AA%D8%B1-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8-%D9%85%D8%B3%D8%AA%D8%B1%D8%AF%D8%A7%D8%B1-%D9%86%D9%88%D8%A7%D8%A8-%D8%B5%D9%81%D9%88%DB%8C/AaH_b99w",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224552.6882463,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D9%84%DA%A9/AabLJh4F",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224561.344078,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A8%D8%A7%D8%BA-%D8%B4%D9%87%D8%B1%DB%8C-%D8%AE%D8%A7%D9%86%D9%87-%D8%B2%D9%86%DB%8C%D8%A7%D9%86/AawyQlwR",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224571.8155615,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AabL5Rt2",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224581.6998112,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-2%D8%AE%D9%88%D8%A7%D8%A8-125%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D8%B3%D8%AA%D8%B1-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D9%81%D8%AF%DA%A9-%D8%B3%D9%86%D8%AF-%D8%A2%D9%85%D8%A7%D8%AF%D9%87/AabvIQgG",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224590.0719213,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/180%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D9%85-%D9%88%D8%A7%D8%AD%D8%AF-%D9%88%DB%8C%D9%88-%D8%B9%D8%A7%D9%84%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA-%DB%B9%DB%B6/AaJPIPed",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224599.7219057,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8-%DB%B2%DB%B2%DB%B0-%D9%85%D8%AA%D8%B1-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D8%B4%D9%87%D8%B1/Aaan78DN",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224609.8022728,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B1%DB%B6%DB%B5%D9%85%D8%AA%D8%B1-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8-%D9%84%D9%88%DA%A9%D8%B3-%D9%88%DB%8C%D9%88%DB%8C-%D8%B9%D8%A7%D9%84%DB%8C-%D9%82%D8%AF%D9%88%D8%B3%DB%8C-%D8%B4%D8%B1%D9%82%DB%8C/AaZHwbDE",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224618.8485453,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A7%D9%85%D8%AA%DB%8C%D8%A7%D8%B2-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8-%D8%B2%D9%88%D9%86-%D8%AF%D9%87-%D8%A8%D9%84%D9%88%DA%A9-%DB%B6%DB%B8-%D8%B9%D8%B1%D8%A8%D8%B2%D8%A7%D8%AF%D9%87/Aa1N_vqi",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224628.6872344,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B2%DB%B2%D9%85%D8%AA%D8%B1-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/Aa31dQFS",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224639.3089461,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B2%DB%B5%D9%85%D8%AA%D8%B1-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/AazNurJu",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224649.5564506,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B7-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B3%D9%86%D8%AF-%D8%A2%D9%85%D8%A7%D8%AF%D9%87/AabLpetS",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224658.8856964,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B4%DB%B5%D9%85%D8%AA%D8%B1%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/AaSaT8_6",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224668.4342725,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A7%D8%B3%DA%A9%D9%84%D8%AA-%D8%A8%D8%AA%D9%86%DB%8C-%DB%B3-%D8%B7%D8%A8%D9%82%D9%87-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF/Aa76MBnZ",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224678.7308655,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/100%D9%85%D8%AA%D8%B1%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2/AabDpvjD",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224688.74923,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A7%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%DB%B3%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%B1%D9%87%D9%86%DA%AF%D8%B4%D9%87%D8%B1/AaSjFUKu",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224698.2126443,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%A2%D9%81%D8%B1%DB%8C%D9%86%D8%B4/AabLpZdG",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224708.020085,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A7%DB%8C%D8%AB%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%D9%86-%DB%B2%D8%AE%D9%88%D8%A7%D8%A8%DB%B1%DB%B2%DB%B1-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C-%D8%AF%D8%A7%D8%B1%D8%AF/AabHZ4pY",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224717.5535629,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%DB%B1%DB%B5%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C/AaJvCwIm",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224726.989323,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8102-%D9%85%D8%AA%D8%B1%DB%8C-%D9%82%D8%AF%D9%88%D8%B3%DB%8C-%D8%BA%D8%B1%D8%A8%DB%8C-%D8%B3%D8%A8%D8%AD%D8%A7%D9%86%DB%8C/AaIbyf7W",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224736.7374632,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B4%D9%87%D8%B1%DA%A9-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86/AabHZxAX",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224746.9457533,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AA%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AF%D8%B1%D8%A8-%D8%A7%D8%B2-%D8%AD%DB%8C%D8%A7%D8%B7-%D8%B1%D8%B4%D8%AF-%D8%AC%D9%86%D9%88%D8%A8%DB%8C/AabHZfwS",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224755.915408,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%88%D8%AA%D9%87%D8%A7%D8%AA%D8%B1%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D9%82%D8%A8%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/AabD56WU",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224764.6648188,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%8C%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DB%B8%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DA%86%D9%88%DA%AF%DB%8C%D8%A7%D9%87/AabvYdXc",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224774.2257452,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B1%DB%B3%DB%B2-%D9%85%D8%AA%D8%B1-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%D9%88%DB%8C%D9%88-%D8%B9%D8%A7%D9%84%DB%8C-%D9%82%D8%AF%D9%88%D8%B3%DB%8C/AaXnqkkH",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224784.5569024,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%8C%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8-%D9%82%D8%AF%D9%88%D8%B3%DB%8C-%D8%BA%D8%B1%D8%A8%DB%8C-%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%B1%D8%B6%D9%88%D8%A7%D9%86/AabH5bgl",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224795.1425593,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D9%86%D8%B2%D9%84-100%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D8%B1%D9%88%D9%86%DB%8C-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9-%D8%A8%D9%87-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%A7%D8%B5%D9%84%DB%8C/AapKcOcy",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224804.9621453,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B0%DB%B0%D9%85%D8%AA%D8%B1%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/Aa_ZD__A",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224814.3350644,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B8%DB%B2%D9%85%D8%AA%D8%B1%DB%8C%DA%A9-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/AaT6lDOv",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224823.179076,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B3%DB%B6%D9%85%D8%AA%D8%B1-%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/AaYwXfEt",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224832.5255277,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B2%DB%B9%D9%85%D8%AA%D8%B1%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A7%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/AaUnemxE",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224842.3317113,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B3%DB%B0%D9%85%D8%AA%D8%B1%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B8%D8%B1%DB%8C%D9%81/Aau2-lkX",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224851.758422,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86%DB%B1%DB%B5%DB%B0%D9%85%D8%AA%D8%B1%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%B4%D9%87%D8%B1%DA%A9-%D9%88%D9%84%DB%8C%D8%B9%D8%B5%D8%B1/AaCyCanv",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224862.1863413,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AA%D8%A7%DA%86%D8%A7%D8%B1%D8%A7-%DB%B1%DB%B8%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AD%DB%8C%D8%A7%D8%B7-%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C-%D9%85%D9%84%DA%A9%DB%8C/AabH5d0W",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224872.223791,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%AE%D8%A7%D9%86%D9%87-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%DB%B1%DB%B0%DB%B9-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D9%86%D8%B5%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF/Aabj343M",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224881.2857873,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B2%D9%85%DB%8C%D9%86-85-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B7%D9%84%D8%A7%DB%8C%DB%8C%D9%87-%D8%B4%D8%B1%D9%82%DB%8C-%DA%A9%D9%88%DA%86%D9%87-18-%D9%81%D8%B1%D8%B9%DB%8C-%D8%A7%D9%88%D9%84-%D8%B3%D9%85%D8%AA-%D8%B1%D8%A7%D8%B3%D8%AA/AaaH4siR",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224888.3661966,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AF%D9%87-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%B1%D9%87%D8%A8%D8%B1-%D9%85%D8%A7%D9%87-%D8%A8%DB%8C-%D8%B1%D9%82%DB%8C%D8%A8-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87/Aa2R4nIF",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224897.8407385,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%85%D9%86%D8%B2%D9%84-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%D8%AF%D9%88-%D8%B7%D8%A8%D9%82%D9%87-200%D9%85%D8%AA%D8%B1-%D8%A7%DB%8C%D8%AB%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%D9%86-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2/AayyLmWu",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224906.9045393,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D8%B4%D9%87%D8%B1-%D8%B3%D9%88%D9%BE%D8%B1-%D9%85%D8%AF%D8%B1%D9%86-%D9%81%D9%88%D9%84-%D8%AA%DA%A9%D9%85%DB%8C%D9%84-%D9%84%D9%88%DA%A9%D8%B3-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87/AaOaRh2a",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224915.3088226,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%DB%B2%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1-%D9%81%D8%B6%D9%84-%D8%A2%D8%A8%D8%A7%D8%AF/AabDZf90",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224921.8303633,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B1%DB%B3%DB%B5%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D8%B9%D8%A7%D9%84%DB%8C-%D8%A7%D8%A8%D8%A7%D8%AF-%D9%81%D9%88%D9%84-%D9%85%D8%AF%D8%B1%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8/Aaa-9lXh",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224929.9451551,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/150-%D9%85%D8%AA%D9%80%D8%B13%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%B3%D8%A7%D9%84-%DB%B9%DB%B9-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%A2%D8%B1%DB%8C%D9%86/AaFadbws",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224939.982658,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%B2%D9%85%DB%8C%D9%86-%DB%B2%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/AabD57py",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224946.5076015,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DB%B1%DB%B4%DB%B8-%D9%85%D8%AA%D8%B1-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C%D8%A7%D9%86/Aa4eQKjJ",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224955.7102423,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AF%D9%88%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%84%D8%A7%DA%A9%DA%86%D8%B1%DB%8C/AabD5tWJ",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224965.2071664,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%88%D8%A7%D8%AD%D8%AF-%DB%B1%DB%B0%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B7-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA-%D8%AF%D8%B3%D8%AA%D8%BA%DB%8C%D8%A8/AaZPw4nT",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224975.339357,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D9%86%D8%B2%D9%84-%DB%8C%DA%A9-%D8%B7%D8%A8%D9%82%D9%87-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%D9%BE%D8%AF%D9%88%D9%86%DA%A9-%D8%A8%D8%A7-%D9%85%D9%88%D9%82%D8%B9%DB%8C%D8%AA-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C/AabDZr3T",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224983.924619,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D9%86%D8%B2%D9%84-%D9%88%DB%8C%D9%84%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%86%D9%82%D8%B7%D9%87-%D8%AF%D8%B1-%D8%A8%D8%A7%D9%81%D8%AA-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C/Aa6-Gt2b",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759224993.2720833,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%B2%D9%85%DB%8C%D9%86-%DB%B2%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1%D8%A8-%D8%A7%D8%B2-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-%DA%AF%D9%84%D8%AF%D8%B4%D8%AA-%D8%AD%D8%A7%D9%81%D8%B8/AauywYnT",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225000.5153918,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AF%D8%B1-%D8%B4%D9%87%D8%B1%DA%A9-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86/AaXLb9ZT",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225009.6605935,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D9%85%D9%86%D8%B2%D9%84-90-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%B1%D9%88%D9%86%DB%8C/AaXveZ8Y",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225019.3131807,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%A8%DB%8C%D8%A7%D8%AA/AabDpZOD",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225029.6139443,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D8%B3%D8%A7%D9%84%D9%86-%D8%A8%D8%B2%D8%B1%DA%AF-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D8%BA%D8%B1%D9%82-%D8%AF%D8%B1-%D9%86%D9%88%D8%B1/AaP-2nsL",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225039.1406703,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DB%B1%DB%B5%DB%B2-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%A8%D9%84%D9%88%D8%A7%D8%B1%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86/AabDpQyL",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225049.1704197,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%DB%8C%D8%A7-%D8%AA%D9%87%D8%A7%D8%AA%D8%B1-%D9%85%D9%84%DA%A9-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%D8%A8%D8%A7-%D9%82%D8%A8%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D9%84%DB%8C/AabDJPar",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225059.4721842,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%D8%B3%D9%87-%D8%AE%D9%88%D8%A7%D8%A8/AabDpIyg",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225069.1658497,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%DB%B6-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%84%D9%88%DA%A9%DB%8C%D8%B4%D9%86/AabDpR1t",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225078.7318127,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B2%D9%85%DB%8C%D9%86-%D8%B5%D8%AF%D8%B1%D8%A7-%D9%81%D8%A7%D8%B2-2-%D9%86%D8%A7%D8%AD%DB%8C%D9%87-%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%DB%8C-180-%D8%AA%D8%A7-338-%D9%85%D8%AA%D8%B1/AaeuldHn",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225086.300817,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%DB%B2%D8%AE%D9%88%D8%A7%D8%A8-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%A8%D8%B3%D9%80%DB%8C%D8%A7%D8%B1-%D8%AE%D9%80%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D8%B4%D9%87%D8%B1%DA%A9-%DA%A9%D9%88%D8%AB%D8%B1/AaGPP5YW",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225096.4039009,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%BE%D9%88%D8%B1-%D8%A8%DB%8C%D8%B1%DA%A9/Aab34XNX",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225105.4739518,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D9%81%D8%B1%D9%88%D8%B4-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-129%D9%85%D8%AA%D8%B1%DB%8C-3%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D9%81%D8%AF%DA%A9/Aa9aylmS",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225115.5306735,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-2-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AE%D8%A7%D9%85-%D8%B5%D8%AF%D8%B1%D8%A7-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2-7-%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D9%85%D9%87%D8%AA%D8%A7%D8%A8/AaJ6f0Eg",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225125.1295893,
+    "data_quality": 0.8999999999999999
+  },
+  {
+    "url": "https://divar.ir/v/%D8%B2%D9%85%DB%8C%D9%86-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C%DB%B3%DB%B4%DB%B8-%D9%85%D8%AA%D8%B1%DB%8C-%D9%82%D9%84%D8%A7%D8%AA/Aab_Y6bw",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225132.2335694,
+    "data_quality": 0.6
+  },
+  {
+    "url": "https://divar.ir/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B2%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%D8%AA%DA%A9-%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D8%A8%D9%84%D9%88%D8%A7%D8%B1-%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86/Aa6up3w2",
+    "strategy": {
+      "type": "detail_extraction"
+    },
+    "success_rate": 1.0,
+    "timestamp": 1759225140.9178932,
+    "data_quality": 0.8999999999999999
+  }
+]
