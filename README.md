@@ -18,4 +18,3 @@ Das System verarbeitet täglich tausende Anzeigen und integriert sie über REST 
 - ✅ Skalierbare Architektur
 - ✅ Error Handling & Logging
 
-## 🏗️ Projektstruktur
